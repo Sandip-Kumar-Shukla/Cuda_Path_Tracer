@@ -7,7 +7,7 @@ compile command:
 Testing: To test this, run the below command with samplePerPixel as the argument.
 !./cuda_path_tracer_cornell_box 1000
 
-![cornell_box_1000_spp](https://github.com/Sandip-Kumar-Shukla/Cuda_Path_Tracer/blob/main/output-3.ppm)
+![cornell_box_1000_spp](https://github.com/Sandip-Kumar-Shukla/Cuda_Path_Tracer/blob/main/output.jpg)
 
 
 
